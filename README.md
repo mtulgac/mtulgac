@@ -12,9 +12,6 @@ Skills: Python, Machine Learning, Distributed Computing
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mtulgac&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/mtulgac)  
-
-
 <!---
 mtulgac/mtulgac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
