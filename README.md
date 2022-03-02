@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Murat from Turkey
 I am currently working at **ISSD** as *Data Scientist*.
 
-Skills: Python, Machine Learning, Distributed Computing
+Skills: Python, Data Analytics, Machine Learning, Distributed Computing
 
 - 🔭 I’m currently working on algorithm questions on AlgoExpert for practice. 
 
