@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Murat from Turkey
-I am currently working at **ISSD** as *Data Scientist*.
+I am currently working at **OREDATA** as *Data Scientist*.
 
 Skills: Python, Data Analytics, Machine Learning, Distributed Computing
 
