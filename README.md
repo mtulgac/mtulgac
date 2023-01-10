@@ -10,7 +10,8 @@ Skills: Python, Data Analytics, Machine Learning, Distributed Computing
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtulgac)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mtulgac&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mtulgac&show_icons=true&theme=dark)  
+
 
 <!---
 mtulgac/mtulgac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
